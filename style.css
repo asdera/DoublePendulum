@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+table, tr, td {
+	border: 5px solid blue;
+}
+
+table {
+	width: 1000px;
+	top: 640px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	position: absolute;
+	border-collapse: collapse;
+}
+
+td {
+	font-size: 18px;
+	padding: 30px;
+	background-color: skyblue;
+	width: 500px;
+	height: 100px;
+}
+
+input {
+    width: 400px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
